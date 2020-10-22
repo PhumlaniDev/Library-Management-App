@@ -1,0 +1,42 @@
+.container-fluid{
+    margin-left: 0%;
+    margin-right: 0%;
+    text-align: center;
+    margin-top: 10%;
+}
+
+h1{
+    margin-bottom: 0%;
+}
+
+p{
+    margin-bottom: 0%;
+}
+
+input{
+    width: 5rem;
+}
+
+.form-control{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 1rem;
+}
+
+.custom-file{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    display: block;
+}
+
+.btn, .btn-outline-success, .my-2, .my-sm-0{
+    margin: 0%;
+}
+
+
+.form-group{
+    margin: 0%;
+    margin-bottom: 1rem;
+}

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="15f7ab4c-5947-4e8c-871e-5849f24a8006" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LibraryManagement.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/admin.handlebars" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/index.handlebars" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginAndRegistration/LoginAndRegistration.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eShop/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eShop/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eShop/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eShop/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eShop/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eShop/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eShop/eShop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eShop/src/main/java/app.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eShop/src/main/resources/public/assets/images/Antelope Jacket.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eShop/src/main/resources/public/assets/images/Bucket hat.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eShop/src/main/resources/public/assets/images/MC - CARDIGAN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eShop/src/main/resources/public/assets/images/MGF19 - GOLFSHIRT.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eShop/src/main/resources/public/assets/images/MGF9.2 - LONG SLEEVE GOLF SHIRT.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eShop/src/main/resources/public/assets/images/MHD2 - HOODIE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eShop/src/main/resources/public/assets/images/MP8 - PANTS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eShop/src/main/resources/public/assets/images/MSH2.2 - SHORTS.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eShop/src/main/resources/public/assets/images/Mask.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eShop/src/main/resources/public/assets/images/Missionary Dress.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eShop/src/main/resources/public/assets/images/The New Classic Tee.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eShop/src/main/resources/public/assets/images/Veins of my City Pleated Skirt.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eShop/src/main/resources/public/assets/images/Venom Wallet.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eShop/src/main/resources/public/assets/images/background.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eShop/src/main/resources/public/assets/images/black ad white - background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eShop/src/main/resources/public/assets/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eShop/src/main/resources/public/eShop.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eShop/src/main/resources/public/index.handlebars" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1jEZ4CJajRIj5hMMxJhyyPbVvCY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/public" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\Projects\WebApps\LibraryManagement\src\main\resources\templates" />
+      <recent name="C:\Users\User\Desktop\Projects\WebApps\LibraryManagement\src\main\resources\template" />
+      <recent name="C:\Users\User\Desktop\Projects\WebApps\LibraryManagement\src\main\resources\public" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\Projects\WebApps\LibraryManagement\src\main\resources\public" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="app" />
+      <module name="LibraryManagement" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.app" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="15f7ab4c-5947-4e8c-871e-5849f24a8006" name="Default Changelist" comment="" />
+      <created>1603371017301</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603371017301</updated>
+      <workItem from="1603371023187" duration="3276000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1323" height="317" key="GridCell.Tab.0.bottom" timestamp="1603375116440">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="317" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1603375116440" />
+    <state width="1323" height="317" key="GridCell.Tab.0.center" timestamp="1603375116439">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="317" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1603375116439" />
+    <state width="1323" height="317" key="GridCell.Tab.0.left" timestamp="1603375116439">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="317" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1603375116439" />
+    <state width="1323" height="317" key="GridCell.Tab.0.right" timestamp="1603375116439">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="317" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1603375116439" />
+    <state x="1858" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603375113548">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state x="1858" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1603375113548" />
+  </component>
+</project>
